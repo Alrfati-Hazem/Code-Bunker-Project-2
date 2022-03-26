@@ -1,4 +1,4 @@
-# Code-Bunker-Project-2
+# Project2-StyleLoft
 
 https://alrfati-hazem.github.io/Project2-CodeBunker/
 
